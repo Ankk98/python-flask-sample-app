@@ -1,5 +1,8 @@
 ## MiniTwit an example application written in Python/Flask
 
+[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/ankk98/Ankk98%2Fpython-flask-sample-app%2Fpython-flask-sample-app?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWJlM2UzZDdiN2I1ODY1ODM2MTQ2MzEw.9Evl_VjtOLQWMLkev8PT4e7-O2EM4XTYT3IGuA_x_aQ&type=cf-1)]( https://g.codefresh.io/pipelines/python-flask-sample-app/builds?repoOwner=Ankk98&repoName=python-flask-sample-app&serviceName=Ankk98%2Fpython-flask-sample-app&filter=trigger:build~Build;branch:master;pipeline:5be52119f75e176c0b9ed568~python-flask-sample-app)
+
+
 Original source code from https://github.com/pallets/flask/tree/16d83d6bb413bec09a656a659b98d897e7abcc81/examples/minitwit
 
 ## Docker instructions
