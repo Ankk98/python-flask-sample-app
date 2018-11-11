@@ -1,5 +1,6 @@
 ## MiniTwit an example application written in Python/Flask
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8b007e3257a4ee581e19c9e85903ae0)](https://app.codacy.com/app/Ankk98/python-flask-sample-app?utm_source=github.com&utm_medium=referral&utm_content=Ankk98/python-flask-sample-app&utm_campaign=Badge_Grade_Dashboard)
 [![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/ankk98/Ankk98%2Fpython-flask-sample-app%2Fpython-flask-sample-app?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWJlM2UzZDdiN2I1ODY1ODM2MTQ2MzEw.9Evl_VjtOLQWMLkev8PT4e7-O2EM4XTYT3IGuA_x_aQ&type=cf-1)]( https://g.codefresh.io/pipelines/python-flask-sample-app/builds?repoOwner=Ankk98&repoName=python-flask-sample-app&serviceName=Ankk98%2Fpython-flask-sample-app&filter=trigger:build~Build;branch:master;pipeline:5be52119f75e176c0b9ed568~python-flask-sample-app)
 
 
