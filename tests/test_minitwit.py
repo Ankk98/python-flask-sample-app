@@ -69,7 +69,7 @@ def add_message(client, text):
         assert b'Your message was recorded' in rv.data
     return rv
 
-# Using assert is bad practice, instead use if not condition and raise AssertionError() beacuse of assert code get removed while compiling to optimised byte code .pyo
+# TODO:Using assert is bad practice, instead use if not condition and raise AssertionError() beacuse of assert code get removed while compiling to optimised byte code .pyo
 def test_register(client):
     """Make sure registering works"""
     rv = register(client, 'user1', 'default')
