@@ -1,3 +1,4 @@
+-- sqlint will give error as it checks syntax against postgres syntax and this file uses mysql syntax
 drop table if exists user;
 create table user (
   user_id integer primary key autoincrement,

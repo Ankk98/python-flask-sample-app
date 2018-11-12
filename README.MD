@@ -32,6 +32,7 @@ A SQLite and Flask powered twitter clone
 ### How do I use it
 
 1.  Edit the configuration in the minitwit.py file or export an `MINITWIT_SETTINGS` environment variable pointing to a configuration file.
+
    
 2.  install the app from the root of the project directory
    `pip install --editable .`
